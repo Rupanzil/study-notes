@@ -16,7 +16,7 @@ Let's see what is exporting and importing module.
 Modules should have extension .mjs
 
 The first way is to do a default export. This can be done only when there is a single object in a module.
-```(JavaScript) module1.mjs
+```js module1.mjs
 // This module1.mjs
 function square (num) {
   return num ** 2;
@@ -25,12 +25,12 @@ function square (num) {
 export default square; // This statement makes the function 'square' available outside the module1.mjs file
 ```
 There are other ways to export as well such as named export. This is a named export of a function.
-```(JavaScript)
+```js
 export {square};
 ```
 This is useful when there are multiple functions in a module and we want to export only a few functions
 
-```(JavaScript)
+```js
 
 ```
 
