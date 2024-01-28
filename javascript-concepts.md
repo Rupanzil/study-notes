@@ -9,6 +9,8 @@ The main reason for using modules in any programming language is to just divide 
 I used this [video](https://www.youtube.com/watch?v=Py2fj9_BJXs&t=5) for understanding this. Seems to do the job in a short time.
 
 #### export default function ?
+![image](https://github.com/Rupanzil/study-notes/assets/153161192/b02f1d4d-92e8-4ac9-ba06-e32114d2b807)
+
 Let's see what is exporting a function and how does it work with the main javascript file we work with
 
 ```(JavaScript)
