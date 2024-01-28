@@ -67,8 +67,8 @@ export {
 ```js
 import {doCube, square} from './module1.mjs'
 
-console.log(power.square(5))    // output: 25
-console.log(power.cube(5))      // output: 125
+console.log(square(5))    // output: 25
+console.log(doCube(5))      // output: 125
 ```
 - we can also use an alias here
 ```js
