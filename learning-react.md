@@ -13,3 +13,4 @@ Source: [freecodecamp.org lesson by Hitesh](https://www.youtube.com/watch?v=Bvwq
   
 ## The basics
 My preferred choice of tool is VITE so, I will be using and telling everything I do using VITE.
+React is nothing but a lot of JavaScript written for a library, like any other JS library and we use it to write a lot less code in case we have complex apps.
