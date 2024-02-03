@@ -27,3 +27,6 @@ re.compile(expression) # compiles the expression into searchable
 ### Generator expressions
 Memory can be saved by using a generator expression. Generator expressions follow the syntax of list comprehensions but they use parentheses instead of square brackets.
 
+## Python password generator
+Interesting [password generator app](https://github.com/Rupanzil/python-practice/blob/main/password_generator.py) which can generate password of any length and based on any condition such as number of alphanumeric characters, special characters, lowercase, uppercase etc.
+
