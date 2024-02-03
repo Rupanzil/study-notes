@@ -16,3 +16,14 @@ Date 03/02/2024 - [Python - Scientific Computation course](https://www.freecodec
 
     return ''.join(snake_cased_char_list).strip('_')
   ```
+
+### Regex in python
+```python
+import re
+
+re.compile(expression) # compiles the expression into searchable
+```
+
+### Generator expressions
+Memory can be saved by using a generator expression. Generator expressions follow the syntax of list comprehensions but they use parentheses instead of square brackets.
+
